@@ -1,0 +1,12 @@
+h1.headquote {
+    font-family: Georgia, serif;
+    font-style: italic;
+    font-size: calc( 18px + (26 - 18) * ( (100vw - 400px) / ( 1170 - 400) ));
+}
+
+h3.headquoteAuthor {
+    font-family: Georgia, serif;
+    font-style: italic;
+    text-align: right;
+    font-size: calc( 16px + (20 - 16) * ( (100vw - 400px) / ( 1170 - 400) ));
+}

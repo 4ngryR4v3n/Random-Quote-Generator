@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAAA,YAAa;EACT,WAAW,EAAE,cAAc;EAC3B,UAAU,EAAE,MAAM;EAClB,SAAS,EAAE,6DAA6D;;AAG5E,kBAAmB;EACf,WAAW,EAAE,cAAc;EAC3B,UAAU,EAAE,MAAM;EAClB,UAAU,EAAE,KAAK;EACjB,SAAS,EAAE,6DAA6D",
+"sources": ["../scss/headerquote.scss"],
+"names": [],
+"file": "headerquote.css"
+}

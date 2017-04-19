@@ -1,0 +1,81 @@
+body.outerContainer {
+    background-color: #f1f0ef;
+    height: 1000px;
+}  
+
+
+div.header {
+    background-color: seashell;
+    height: 250px;
+    padding: 50px;
+    margin: auto;
+}
+
+/* headquote and headquoteAuthor style is taken care of in a separate headerquote.css (Created from headerquote.scss file in Sass) which now allows for the dynamic
+resizing of the header quote when viewed on a mobil device*/
+
+/*
+h1.headquote {
+    font-family: Georgia, serif;
+    font-style: italic;
+}
+
+h3.headquoteAuthor {
+    font-family: Georgia, serif;
+    font-style: italic;
+    text-align: right;
+}*/
+
+div.rowbox {
+    background-color: seashell;
+    padding: 25px;
+    text-align: center
+}
+
+div.lovebox {              
+    background-image: url("../img/skulls-background-pattern-0631.jpg");
+    font-size: 16px;
+    width: 295px;
+    height: 160px;
+    border: 2px solid red;
+    padding: 25px;
+    margin: auto;
+}
+
+div.leaderbox {
+    background-image: url("../img/leadership-background.jpg");
+    font-size: 16px;
+    width: 295px;
+    height: 160px;
+    border: 2px solid grey;
+    padding: 25px;
+    margin: auto;
+}
+
+div.wisebox {
+    background-image: url("../img/zen_stones.jpg");
+    font-size: 16px;
+    width: 295px;
+    height: 160px;
+    border: 2px solid green;
+    padding: 25px;
+    margin: auto;
+}
+
+div.about {
+    background-color: seashell;
+    font-size: 16px;
+    padding: 50px;
+}
+
+div.cardCountBox {
+    background-color: lightsalmon;
+    text-align: center;
+}
+
+div.footer {
+    height: 320px;
+    background-color: seashell;
+    padding: 50px;
+    margin: auto;
+}
